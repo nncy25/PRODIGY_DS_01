@@ -34,3 +34,12 @@ It includes:
 1. Open the notebook in Google Colab
 2. Run all cells
 3. CSV file and plots will be generated automatically
+
+## 📊 Sample Visualizations
+
+### Age Group Distribution
+![Age Group Distribution](age_group_distribution.png)
+
+### Gender Distribution
+![Gender Distribution](gender_distribution.png)
+
